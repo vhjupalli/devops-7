@@ -1,3 +1,5 @@
+#!/bin/bash
+
 NAMES=("Vinod","Sai","Pavan","Ramesh")
 
 echo "Hello ${NAMES[0]}"
